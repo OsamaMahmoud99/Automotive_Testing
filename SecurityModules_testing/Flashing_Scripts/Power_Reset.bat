@@ -1,1 +1,0 @@
-Python312\python.exe Power_Reset.py

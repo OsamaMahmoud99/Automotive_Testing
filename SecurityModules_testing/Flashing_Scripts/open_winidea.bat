@@ -1,1 +1,0 @@
-python open_winidea.py
